@@ -1,0 +1,6 @@
+B1: xây dựng yêu cầu, cho vào bot xuất ra code
+B2: tạo bot trên BotFather, lấy token bỏ vào code mẫu
+B3: mở cmd hoặc terminal trên vs code, trỏ tới directory chứa file .py rồi nhập: "python nameoffile.py"
+B4: dừng bằng cách ấn ctrl+C/ctrl +Z trên cmd, còn terminal chuột phải sẽ có option dừng
+
+*build thành từng function riêng biệt
